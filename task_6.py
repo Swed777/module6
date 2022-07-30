@@ -18,6 +18,18 @@ print('Задача 6. Поставьте оценку!')
 # Введите число: 0
 # Кол-во положительных чисел: 1
 # Кол-во отрицательных чисел: 2
-
-int(input('Введите число от -100 до 100: '))
-while
+count_pozitiv = 0
+count_negativ = 0
+while True:
+  number = int(input('Введите число от -100 до 100: '))
+  if number > 0 and number <= 100:
+    count_pozitiv += 1
+  elif number < 0 and number >= -100:
+    count_negativ += 1
+  elif number == 0:
+    print(' Кол-во положительных чисел:', count_pozitiv)
+    print(' Кол-во отрицательных чисел:', count_negativ)
+    print('*** Конец программы ***')
+    break
+  else:
+    print('Диапазон отличен от -100:100', count_pozitiv)

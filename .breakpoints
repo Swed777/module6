@@ -1,0 +1,54 @@
+{
+  "files": {
+    "task_8.py": [
+      {
+        "id": "530417cf-3d27-4068-9ca1-26446dca15cd",
+        "line": 14,
+        "version": 449,
+        "index": 401
+      },
+      {
+        "id": "8559dc36-f071-4c7b-aa05-bf98b3be03ca",
+        "line": 15,
+        "version": 449,
+        "index": 458
+      },
+      {
+        "id": "fd639a6a-64ae-4154-9fb2-9cb57a1b2916",
+        "line": 16,
+        "version": 449,
+        "index": 515
+      },
+      {
+        "id": "5d06704a-6604-4b32-8329-44cae8321cb5",
+        "line": 17,
+        "version": 449,
+        "index": 572
+      },
+      {
+        "id": "986afd42-2b57-4c62-a791-97e836b5ce28",
+        "line": 19,
+        "version": 449,
+        "index": 627
+      },
+      {
+        "id": "6315bbe6-e73c-4b63-a18c-5e19cace9d5e",
+        "line": 20,
+        "version": 449,
+        "index": 649
+      },
+      {
+        "id": "e056fb8b-3dad-4818-ab7a-d0eede627f3f",
+        "line": 22,
+        "version": 449,
+        "index": 704
+      },
+      {
+        "id": "6532fb92-5396-4a09-9f88-082d8f6da666",
+        "line": 23,
+        "version": 449,
+        "index": 716
+      }
+    ]
+  }
+}
